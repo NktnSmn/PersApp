@@ -1,3 +1,3 @@
 rootProject.name = "PersApp"
 
-include ':app'
+include(":app")
